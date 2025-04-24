@@ -30,10 +30,10 @@ I'm Tejas, a passionate and detail-oriented aspiring data analyst skilled in Exc
 
 ## Contact
 
-- 📧 Email: twankhade999@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/tejas-wankhade-451929284
+-  Email: twankhade999@gmail.com
+- LinkedIn: www.linkedin.com/in/tejas-wankhade-451929284
 
 ---
 
-⭐ If you like this project, feel free to give it a star!
+If you like this project, feel free to give it a star!
 
