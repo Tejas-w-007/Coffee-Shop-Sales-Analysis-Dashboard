@@ -1,48 +1,34 @@
-# Coffee Shop Sales Analysis Dashboard ☕
+# Coffee Shop Sales Analysis Dashboard 
 
-This project explores and analyzes sales data from a fictional coffee shop to derive meaningful business insights. Using Excel, I created an interactive dashboard to visualize key metrics such as revenue trends, product performance, and customer preferences.
+The purpose of the project is to find insights by creating a dashboard so understand our products sells and the peak hours of the shop. For that we have visualizations dashboard and for that we have used pivot tables , measures and power pivot.
 
-## 📊 Project Highlights
+## Project Highlights
 
-- Analyzed monthly and yearly sales performance
-- Identified best-selling products and seasonal trends
-- Evaluated peak sales hours and customer behavior
-- Created an interactive Excel dashboard with slicers and pivot charts
+- Analyzed monthly and yearly sales performance.
+- Identified best-selling products and seasonal trends.
+- Evaluated peak sales hours and best selling products.
+- Created an interactive Excel dashboard with slicers and pivot charts.
 
-## 🛠 Tools Used
+## Tools Used for the project
 
 - Microsoft Excel
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers
-  - Conditional Formatting
-- Basic data cleaning and transformation
+  - Pivot Tables.
+  - Pivot Charts.
+  - Slicers.
+  - Conditional Formatting.
+- Basic data cleaning and transformation through Power Query.
 
-## 📈 Key Insights
+## Insights Extracted
 
-- Most revenue is generated during morning hours (8 AM - 11 AM)
-- Coffee and pastries are the top-selling product categories
-- Sales peak on weekends, especially Saturdays
-- Seasonal spikes noticed during winter months
-
-## 📁 Files Included
-
-- `Coffee_Shop.xlsx`: Contains raw data, cleaned dataset, pivot tables, and the final dashboard.
-
-## 🎯 Purpose
-
-This project is a part of my data analyst portfolio, aimed at showcasing my ability to:
-
-- Work with real-world datasets
-- Apply Excel skills to derive insights
-- Present data in a clear and visual format
-- Make business recommendations based on data
-
-## 👤 About Me
+- Most revenue is generated during morning hours (8 AM - 11 AM).
+- The top-selling product is **Baristo Expresso**.
+- Sales peak on **Monday, Thrusday, Friday**.
+  
+## About Me
 
 I'm Tejas, a passionate and detail-oriented aspiring data analyst skilled in Excel, SQL, Python, and Power BI. I'm enthusiastic about using data to drive business decisions and solve problems.
 
-## 📬 Contact
+## Contact
 
 - 📧 Email: twankhade999@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/tejas-wankhade-451929284
